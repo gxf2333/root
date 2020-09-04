@@ -1,2 +1,2 @@
-ssdsdsdsdsd山东
-广东545151
+JOJO
+FIGHTING GOLD
