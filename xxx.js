@@ -20,7 +20,7 @@ git status: 查看哪些文件修改了
 git add 文件名 文件保存到本地('保存单个')
 git add.所有文件都保存
 git commit - m '说明': 提交代码
-git push origin(master) 远程分支名: 往远程分支提交代码
+git push origin master 远程分支名: 往远程分支提交代码
 git log: 查看日志
 git checkout - b(你的分支名 origin / master 创建本地分支)
 git branch - v(查看本地分支)
