@@ -1,2 +1,3 @@
 JOJO
 FIGHTING GOLD
+乔纳森·乔斯达
